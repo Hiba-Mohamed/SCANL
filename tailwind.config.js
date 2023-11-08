@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        playPen: ["Playpen Sans", "cursive"],
+        Lato: ["Lato", "sans-serif"],
       },
       colors: {
         peach: "#EF798A",
