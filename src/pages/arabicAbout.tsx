@@ -2,9 +2,9 @@ import ArabicFooter from "../components/arabicFooter";
 import ArabicHeader from "../components/arabicHeader";
 export function ArabicAbout() {
   return (
-    <div lang="ar" dir="rtl">
+    <div lang="ar">
       <ArabicHeader />
-      <div className="flex flex-col items-center min-h-screen py-10">
+      <div dir="rtl" className="flex flex-col items-center min-h-screen py-10">
         <h1 className="text-4xl sm:text-6xl p-12 font-bold">عن الجمعية</h1>
 
         <div className="flex flex-col rounded-3xl shadow-lg m-6 p-4 md:text-xl sm:text-lg md:max-w-3xl sm:mb-24">
