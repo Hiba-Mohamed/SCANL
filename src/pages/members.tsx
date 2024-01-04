@@ -14,7 +14,7 @@ export function Members() {
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
               <img
-                src="src\img\abdalazizadam.JPG"
+                src="\src\img\abdalazizadam.JPG"
                 className="w-28 rounded-full"
               />
               <div className="flex flex-col text-lg">
