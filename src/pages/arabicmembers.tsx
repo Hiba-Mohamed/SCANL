@@ -15,7 +15,7 @@ export function ArabicMembers() {
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
               <img
-                src="src\img\abdalazizadam.JPG"
+                src="img\abdalazizadam.JPG"
                 className="w-28 rounded-full"
               />
               <div className="flex flex-col text-lg">
@@ -24,7 +24,7 @@ export function ArabicMembers() {
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\murtada.JPG" className="w-28 rounded-full" />
+              <img src="img\murtada.JPG" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">نائب رئيس مجلس الإدارة</p>
                 <p>مرتضى عبدين الحاج</p>
@@ -33,14 +33,14 @@ export function ArabicMembers() {
           </div>
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\haroon.JPG" className="w-28 rounded-full" />
+              <img src="img\haroon.JPG" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">الأمين العام</p>
                 <p>هارون إبراهيم محمد</p>
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\ahmedishaq.JPG" className="w-28 rounded-full" />
+              <img src="img\ahmedishaq.JPG" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">نائب الأمين العام</p>
                 <p>أحمد إسحاق أحمد</p>
@@ -50,7 +50,7 @@ export function ArabicMembers() {
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
               <img
-                src="src\img\abdalazizishaq.JPG"
+                src="img\abdalazizishaq.JPG"
                 className="w-28 rounded-full"
               />
               <div className="flex flex-col text-lg">
@@ -59,7 +59,7 @@ export function ArabicMembers() {
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">نائب أمين شؤون مالية </p>
                 <p>محمد إسحاق حسين</p>
@@ -68,7 +68,7 @@ export function ArabicMembers() {
           </div>
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\nasraldeen.JPG" className="w-28 rounded-full" />
+              <img src="img\nasraldeen.JPG" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">أمين الشؤون الاجتماعية</p>
                 <p>نصر الدين آدم</p>
@@ -76,7 +76,7 @@ export function ArabicMembers() {
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
               <img
-                src="src\img\ahmedmuhamadain.JPG"
+                src="img\ahmedmuhamadain.JPG"
                 className="w-28 rounded-full"
               />
               <div className="flex flex-col text-lg">
@@ -87,14 +87,14 @@ export function ArabicMembers() {
           </div>
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">أمين الشؤون الثقافية</p>
                 <p>نادية عدلان أبو راس</p>
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\faris.JPG" className="w-28 rounded-full" />
+              <img src="img\faris.JPG" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">أمين الشؤون الإعلامية</p>
                 <p>فارس عثمان أحمد</p>
@@ -103,14 +103,14 @@ export function ArabicMembers() {
           </div>
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">أمين شؤون الرياضية والشباب</p>
                 <p>حسن يونس</p>
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">أمين شؤون المرأة والأطفال </p>
                 <p>حنان علي</p>
@@ -119,14 +119,14 @@ export function ArabicMembers() {
           </div>
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">أمين شؤون المنزلية</p>
                 <p>سهير مصطفى علي</p>
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">أمين شؤون الهجرة </p>
                 <p>زكريا آدم عبد الله</p>
@@ -134,7 +134,7 @@ export function ArabicMembers() {
             </div>
           </div>
           <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-            <img src="src\img\icon.png" className="w-28 rounded-full" />
+            <img src="img\icon.png" className="w-28 rounded-full" />
             <div className="flex flex-col text-lg">
               <p className="font-bold">أمين الشؤون الأكاديمية</p>
               <p> أبو بكر حامد</p>
@@ -146,13 +146,13 @@ export function ArabicMembers() {
           </h2>
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p>فيصل عبد الله</p>
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p>زيد دفع الله كافي</p>
               </div>
@@ -161,13 +161,13 @@ export function ArabicMembers() {
 
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p>سعد محمد</p>
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p>علاء الدين كنجوم</p>
               </div>
@@ -176,13 +176,13 @@ export function ArabicMembers() {
 
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p>فيصل الطاهر</p>
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p>عاصم عبد الله</p>
               </div>
@@ -191,13 +191,13 @@ export function ArabicMembers() {
 
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p>أحمد عزالدين</p>
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-4 flex flex-row items-center gap-8 m-4 lg:w-520">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p>ياسر إسماعيل</p>
               </div>
@@ -206,14 +206,14 @@ export function ArabicMembers() {
 
           {/* <div className="flex flex-col sm:flex-row">
             <div className="shadow-lg rounded-xl px-2 py-8 flex flex-row items-center gap-8 m-4">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">General Secretary</p>
                 <p> Haroun Ibrahim Mohammed</p>
               </div>
             </div>
             <div className="shadow-lg rounded-xl px-2 py-8 flex flex-row items-center gap-8 m-4">
-              <img src="src\img\icon.png" className="w-28 rounded-full" />
+              <img src="img\icon.png" className="w-28 rounded-full" />
               <div className="flex flex-col text-lg">
                 <p className="font-bold">Deputy General Secretary</p>
                 <p> Ahmed Ishaq Ahmed</p>
