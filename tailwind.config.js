@@ -9,6 +9,9 @@ export default {
       colors: {
         peach: "#EF798A",
       },
+      width:{
+        '520':'520px' 
+      }
     },
   },
   plugins: [],
