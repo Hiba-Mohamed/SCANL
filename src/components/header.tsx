@@ -38,6 +38,14 @@ export function Header() {
             </li>
             <li>
               <Link
+                to="/members"
+                className="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-green"
+              >
+                Members
+              </Link>
+            </li>
+            <li>
+              <Link
                 to="/contact"
                 className="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-green"
               >
