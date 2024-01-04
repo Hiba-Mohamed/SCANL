@@ -146,7 +146,7 @@ export function Members() {
             </div>
           </div>
 
-          <h2 className="text-2xl sm:text-3xl py-12">
+          <h2 className="text-2xl sm:text-3xl py-12 lg:mt-24">
             Consultative Office Members
           </h2>
           <div className="flex flex-col sm:flex-row items-center w-full lg:gap-32">

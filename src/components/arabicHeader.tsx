@@ -38,6 +38,14 @@ export function ArabicHeader() {
             </li>
             <li>
               <Link
+                to="/arabicmembers"
+                className="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-green"
+              >
+                اعضاء الجمعية
+              </Link>
+            </li>
+            <li>
+              <Link
                 to="/arabicContact"
                 className="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-green"
               >
@@ -84,6 +92,14 @@ export function ArabicHeader() {
               onClick={() => setOpen(!open)}
             >
               عن الجمعية
+            </Link>
+          </li>
+          <li>
+            <Link
+              to="/arabicmembers"
+              className="block py-2 pl-3 pr-4 text-gray-900 rounded hover:text-green"
+            >
+              اعضاء الجمعية
             </Link>
           </li>
           <li>
