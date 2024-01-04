@@ -1,6 +1,5 @@
 import Header from "../components/header";
 import Footer from "../components/footer";
-import abdalazizadam from "../img/"
 
 export function Members() {
   return (
