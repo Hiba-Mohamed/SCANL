@@ -11,7 +11,7 @@ export function About() {
           <p> SCANL aims to:</p>
           <ul className="list-disc p-4 flex flex-col gap-4">
             <li>
-              promoting and preserving Sudanese languages, dialects, cultures,
+              Promoting and preserving Sudanese languages, dialects, cultures,
               heritage, and passing them on to new generations and the Scanl
               society at large
             </li>

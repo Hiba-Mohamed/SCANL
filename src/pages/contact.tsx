@@ -13,7 +13,7 @@ export function Contact() {
               <div className="flex flex-col gap-2 items-center p-4 bg-white rounded-3xl shadow-lg">
                 <p>Faris Osman Ahmed</p>
                 <p>Communication Secretary</p>
-                <p>+1(709) 219-3840</p>
+                <p>info@scanl.ca</p>
               </div>
             </div>
           </div>
